@@ -1,0 +1,3 @@
+﻿Estearchivodeentradatienevariaslineas.
+estearchivoconcadalineacomoviene,en"salida.txt"
+¡Noseolvidendeestaultimalineas!
